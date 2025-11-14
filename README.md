@@ -1,11 +1,24 @@
-# **Raguram Narayanaswamy**  
-### **QA | UX Research | Growth Strategy | Product Management**
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/Raguram-N/Hello/blob/main/Pic__.jpg" width="175" height="385" style="border-radius:10px;" alt="Raguram's Photo" />
+    </td>
+    <td style="vertical-align:top; padding-left:15px;">
 
-📍 Chennai, Tamil Nadu, India  
-📧 **raguramcdm@gmail.com**  
-📞 **+91 88701 80822**  
-🔗 **[Portfolio](https://github.com/Raguram-N/My_Wall_of_Innovations/blob/main/README.md)**  
-🔗 **[LinkedIn](#)**  
+# 💼 **Raguram Narayanaswamy**
+**Product Management | Business Analysis | UX Research | Product Design | User Acceptance Testing**                                         
+> - **2+ years of experience at Amazon, specializing in software testing & bug validation.** 
+> - **1+ year of freelance experience in Product Design, UX Research, and Business Growth Strategy.**
+---
+📧 **Email:** [raguramcdm@gmail.com](mailto:raguramcdm@gmail.com)                                
+📞 **Phone:** +91 88701 80822  
+🎓 **Education:** B.E - EIE (2015–2019)  
+🏛️ **College:** St. Joseph's College of Engineering, Chennai  
+📍 **Location:** Chennai, Tamil Nadu, India  
+
+</td>
+  </tr>
+</table>
 
 ---
 
@@ -22,36 +35,18 @@ Rooted in empathy and experimentation, my goal is to **solve real user problems*
 
 ---
 
-## 🚀 **Core Skills**
+#### **🧩Skills:**      
+- 🔍 **Research & Analysis:**
+User Research | Market Insights | Data Interpretation | Behavioral Psychology
 
-### 🔍 **Research & Analysis**
-- User Research  
-- Market Insights  
-- Data Interpretation  
-- Behavioral Psychology  
+- 🎨 **Design & UX:**
+Wireframing | Journey Mapping | Prototyping | Usability Testing | UX Case Studies
 
-### 🎨 **Design & UX**
-- Wireframing  
-- Journey Mapping  
-- Prototyping  
-- Usability Testing  
-- UX Case Studies  
+- ⚙️ **Product & Strategy:**
+Product Thinking | Growth Experiments | Problem Solving | Business Impact Analysis
 
-### ⚙️ **Product & Strategy**
-- Product Thinking  
-- Growth Experiments  
-- Problem Solving  
-- Business Impact Analysis  
-
-### 🧠 **Tools & Tech**
-- Excel  
-- Power BI  
-- Selenium  
-- Figma  
-- Jira  
-- TestRail  
-- A/B Testing  
-- Design Systems  
+- 🧠 **Tools & Tech:**
+Excel | Power BI | Selenium | Figma | Jira | TestRail | A/B Testing | Design Systems
 
 ---
 
@@ -66,6 +61,9 @@ Project: Kindle Unlimited & Prime Readings (KU & PR)
 - Collaborated with development & product teams via **Jira/TestRail**, delivering bug reports and UX insights.  
 - Created **Power BI dashboards** to visualize user behavior, testing outcomes, and improvement areas.  
 - Executed **root cause analysis, process improvements**, and problem solving to enhance productivity and usability.
+
+🔗 **Sample QA project:**  
+https://github.com/Raguram-N/My_QA_Sample_Project/blob/main/README.md
 
 ---
 
