@@ -24,14 +24,7 @@
 
 ## 👋 **Hey there!**
 
-I’m a **UX and Product enthusiast** with 2+ years of experience at **Amazon**, blending  
-**behavioral research, UX testing, product analysis, and strategic thinking** to craft seamless digital experiences.
-
-I bridge the gap between **research → design → product strategy**, transforming insights from  
-**psychology, usability, and user behavior** into intuitive, scalable products.
-
-Rooted in empathy and experimentation, my goal is to **solve real user problems**,  
-**improve usability**, and **drive measurable business impact.**
+I’m a UX and Product enthusiast with over 2 years of experience at Amazon, combining behavioral research, data-driven analysis, and product testing to craft seamless digital experiences. I bridge the gap between research, design, and strategy—translating insights from psychology, usability, and user behavior into intuitive, scalable products. Rooted in empathy and experimentation, my approach focuses on solving real user problems, improving usability, and driving measurable business impact.
 
 ---
 
